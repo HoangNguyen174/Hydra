@@ -1,0 +1,31 @@
+{
+  "name": "Hydra",
+  "productName": "Hydra Engine",
+  "version": "1.0.0",
+  "description": "Web Browser Game Engine",
+  "license": "MIT",
+  "repository": "hnguyen.programmer/hydra",
+  "author": {
+    "name": "hoanghuynguyen",
+    "email": "hnguyen.programmer@gmail.com",
+    "url": "hoanghuynguyen.com"
+  },
+  "devDependencies": {
+    "@types/node": "^6.0.51",
+    "grunt": "^1.0.1",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-uglify": "^2.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-package-modules": "^1.0.0",
+    "grunt-typescript": "^0.8.0",
+    "regl": "^1.3.0",
+    "typescript": "^2.0.10"
+  },
+  "dependencies": {
+    "@types/node": "^6.0.51",
+    "regl": "^1.3.0",
+    "typescript": "^2.0.10"
+  }
+}
